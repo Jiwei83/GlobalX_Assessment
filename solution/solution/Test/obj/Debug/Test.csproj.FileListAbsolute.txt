@@ -1,0 +1,10 @@
+/Users/majiwei/Projects/solution/solution/Test/bin/Debug/Test.dll
+/Users/majiwei/Projects/solution/solution/Test/bin/Debug/Test.pdb
+/Users/majiwei/Projects/solution/solution/Test/bin/Debug/nunit.framework.dll
+/Users/majiwei/Projects/solution/solution/Test/bin/Debug/solution.exe
+/Users/majiwei/Projects/solution/solution/Test/bin/Debug/solution.pdb
+/Users/majiwei/Projects/solution/solution/Test/bin/Debug/nunit.framework.xml
+/Users/majiwei/Projects/solution/solution/Test/obj/Debug/Test.csprojResolveAssemblyReference.cache
+/Users/majiwei/Projects/solution/solution/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/majiwei/Projects/solution/solution/Test/obj/Debug/Test.dll
+/Users/majiwei/Projects/solution/solution/Test/obj/Debug/Test.pdb
