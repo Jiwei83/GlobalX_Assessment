@@ -9,6 +9,7 @@ namespace Solution
 		{
 			string pathForReading = "";
 			string pathForWriting = "";
+			
 			ReadFile rf = new ReadFile();
 			rf.GetFile(pathForReading, pathForWriting);
 		}
