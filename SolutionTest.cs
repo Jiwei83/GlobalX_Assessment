@@ -11,10 +11,10 @@ namespace Solution.Test
 		public void TestCase()
 		{
 			ReadFile rf = new ReadFile();
-			string pathForReading = @"/Users/majiwei/Desktop/test";
-			string pathForWriting = @"/Users/majiwei/Desktop/names-sorted.txt";
+			string pathForReading = "";
+			string pathForWriting = "";
 
-			rf.GetFile(pathForReading);
+			rf.GetFile(pathForReading, pathForWriting);
 			if (File.Exists(pathForWriting))
 			{
 				string[] names = { "BAKER, THEODORE", "KENT, MADISON", "SMITH, ANDREW", "SMITH, FREDRICK" };
