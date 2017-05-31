@@ -7,8 +7,8 @@ namespace Solution
 	{
 		public static void Main(string[] args)
 		{
-			string pathForReading = "";
-			string pathForWriting = "";
+			string pathForReading = "test.txt";
+			string pathForWriting = "names-sorted.txt";
 			ReadFile rf = new ReadFile();
 			rf.GetFile(pathForReading, pathForWriting);
 		}
