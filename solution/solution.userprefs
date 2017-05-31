@@ -1,8 +1,25 @@
 ﻿<Properties StartupConfiguration="{4E753A89-3322-448B-B77C-971D27D35758}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="solution/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolutionTest.cs">
     <Files>
-      <File FileName="solution/Program.cs" Line="18" Column="22" />
+      <File FileName="Program.cs" Line="13" Column="6" />
+      <File FileName="SolutionTest.cs" Line="33" Column="5" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solution" expanded="True">
+            <Node name="Solution" expanded="True">
+              <Node name="SolutionTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Solution" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.Solution PreferredExecutionTarget="MonoDevelop.Default" />
