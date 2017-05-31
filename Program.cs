@@ -8,6 +8,7 @@ namespace Solution
 		public static void Main(string[] args)
 		{
 			string pathForReading = "";
+			string pathForWriting = "";
 			ReadFile rf = new ReadFile();
 			rf.GetFile(pathForReading, pathForWriting);
 		}
