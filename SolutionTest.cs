@@ -11,8 +11,8 @@ namespace Solution.Test
 		public void TestCase()
 		{
 			ReadFile rf = new ReadFile();
-			string pathForReading = "";
-			string pathForWriting = "";
+			string pathForReading = "test.txt";
+			string pathForWriting = "names-sorted.txt";
 
 			rf.GetFile(pathForReading, pathForWriting);
 			if (File.Exists(pathForWriting))
